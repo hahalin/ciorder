@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["name","sort"],"table":{"crudTitle":"\u7d44\u5225","crudRowsPerPage":"20"},"filter":{"list":["id","name","sort"],"actived":["name"],"atrr":{"name":{"alias":"\u540d\u7a31"},"sort":{"alias":"\u6392\u5e8f"},"id":{"alias":"id"}}},"column":{"list":["id","name","sort"],"actived":["name","sort"],"atrr":{"name":{"alias":"\u540d\u7a31","align":"center"},"sort":{"alias":"\u6392\u5e8f","width":"50","align":"right"},"id":{"alias":"id"}}},"frm_type":"2"}

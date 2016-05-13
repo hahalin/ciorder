@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"field":"year","label":"\u5e74\u5ea6","type":"select","options":["2013","2014","2015"],"type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":"","list_choose":"default"}

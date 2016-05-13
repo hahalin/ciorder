@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["code","nm"],"table":{"crudTitle":"\u9152\u985e","crudRowsPerPage":"20"},"filter":{"list":["id","code","nm"],"actived":["code","nm"],"atrr":{"id":{"alias":"id"},"code":{"alias":"\u7de8\u865f"},"nm":{"alias":"\u540d\u7a31"}}},"column":{"list":["id","code","nm","test_id"],"actived":["code","nm"],"atrr":{"id":{"alias":"id"},"code":{"alias":"\u7de8\u865f"},"nm":{"alias":"\u540d\u7a31"}}},"frm_type":"2"}

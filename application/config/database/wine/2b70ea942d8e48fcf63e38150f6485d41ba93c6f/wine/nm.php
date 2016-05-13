@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"field":"nm","label":"\u540d\u7a31","type":"text","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":"notEmpty","db_options":{"table":"articles","key":"id","value":"article_title"},"list_choose":"database"}

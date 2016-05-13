@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["id"],"table":{"crudTitle":"customers manager","crudRowsPerPage":"20"},"filter":{"list":["id"],"atrr":{"id":{"alias":"id"}},"actived":["id"]},"column":{"list":["id"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

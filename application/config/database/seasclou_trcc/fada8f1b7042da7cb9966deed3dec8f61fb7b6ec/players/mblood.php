@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"field":"mblood","label":"\u99d5\u99db\u8840\u578b","type":"select","options":["A","B","AB","O"],"type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":"notEmpty","multiple":"","list_choose":"default"}

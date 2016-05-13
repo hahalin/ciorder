@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["id","category_name","category_description"],"table":{"crudTitle":"categories manager","crudRowsPerPage":"20"},"filter":{"list":["id","category_name","category_description"],"atrr":{"id":{"alias":"id"},"category_name":{"alias":"category_name"},"category_description":{"alias":"category_description"}},"actived":["id","category_name","category_description"]},"column":{"list":["id","category_name","category_description"],"atrr":{"id":{"alias":"id"}},"actived":["id","category_name","category_description"]},"frm_type":"2"}

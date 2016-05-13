@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["name","pic"],"table":{"crudTitle":"\u8eca\u8f1b\u5ee0\u724c","crudRowsPerPage":"20"},"filter":{"list":["id","name","pic"],"atrr":{"name":{"alias":"\u5ee0\u724c\u540d\u7a31"},"pic":{"alias":"Logo"},"id":{"alias":"id"}},"actived":["name"]},"column":{"list":["id","name","pic"],"atrr":{"name":{"alias":"\u5ee0\u724c\u540d\u7a31","width":"100","align":"center"},"pic":{"alias":"Logo","align":"center"},"id":{"alias":"id"}},"actived":["name","pic"]},"frm_type":"2"}

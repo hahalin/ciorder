@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["orderno","dt"],"table":{"crudTitle":"orders manager","crudRowsPerPage":"20"},"filter":{"list":["id","dt","orderno"],"atrr":{"id":{"alias":"id"},"dt":{"alias":"dt"}}},"column":{"list":["id","orderno","dt"],"atrr":{"id":{"alias":"id"},"orderno":{"alias":"\u8a02\u55ae\u865f\u78bc","width":"180"},"dt":{"alias":"\u65e5\u671f","format":"","width":"150","align":"center"}},"actived":["orderno","dt"]},"frm_type":"2"}
