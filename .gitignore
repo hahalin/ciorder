@@ -16,7 +16,6 @@ assets/
 !assets/css/
 !assets/dist/
 !assets/src/
-!assets/
 !assets/package.json
 !assets/server.js
 !assets/webpack.config.js
