@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <!-- Le styles -->
         <?php
-            $btpath='media/node_modules/bootstrap/dist';
+            $btpath='assets/node_modules/bootstrap/dist';
             $jquerypath='media/node_modules/jquery/dist';
             $assetspath='assets/js';
         ?>
